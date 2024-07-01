@@ -1,0 +1,3 @@
+/home/oem/Desktop/so2/build/CMakeFiles/my_opengl_project.dir
+/home/oem/Desktop/so2/build/CMakeFiles/edit_cache.dir
+/home/oem/Desktop/so2/build/CMakeFiles/rebuild_cache.dir
