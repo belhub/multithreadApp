@@ -1,4 +1,4 @@
-# multithreadApp
+# simpleMultithreadApp
 prosta aplikacja wielowątkowa oparta na technologiach, C++ oraz OpenGL (biblioteka glfw3 i glad)
 
 Aplikacja ma na celu synchronizację wątków. 
